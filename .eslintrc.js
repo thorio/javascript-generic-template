@@ -1,10 +1,7 @@
 module.exports = {
 	"env": {
-		"browser": true,
 		"commonjs": true,
 		"es6": true,
-		"greasemonkey": true,
-		"jquery": true,
 	},
 	"extends": "eslint:recommended",
 	"globals": {},
