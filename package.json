@@ -4,7 +4,7 @@
 	"description": "default setup for eslint and jsbeautify",
 	"dependencies": {},
 	"devDependencies": {
-		"eslint": "^6.6.0"
+		"eslint": "^7.4.0"
 	},
 	"scripts": {},
 	"repository": {
